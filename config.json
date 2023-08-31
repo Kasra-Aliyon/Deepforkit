@@ -1,0 +1,7 @@
+{
+    "num_validation_years": 1,
+    "num_train_years": 2,
+    "n_trials": 1500,
+    "n_jobs": 4,
+    "calibration_years": 3
+}
