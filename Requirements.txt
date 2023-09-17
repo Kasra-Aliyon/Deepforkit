@@ -1,0 +1,16 @@
+beautifulsoup4 
+entsoe-py==0.5.9
+html5lib 
+keras==2.9.0
+matplotlib==3.6.2
+optuna==3.0.3
+pandas 
+scipy==1.8.1
+seaborn==0.11.2
+tensorboard==2.9.1
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tensorflow==2.9.2
+tensorflow-estimator==2.9.0
+tensorflow-gpu==2.9.1
+tensorflow-io-gcs-filesystem==0.25.0
